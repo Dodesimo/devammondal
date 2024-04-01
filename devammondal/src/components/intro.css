@@ -1,0 +1,52 @@
+#intro {
+    height: calc(100vh - 4rem);
+    width: 100vw;
+    max-width: 75rem;
+    margin: 0 auto;
+}
+
+.introContent {
+
+    height: 40vh;
+    width: 100vw;
+    padding: 2rem;
+    font-size: 3rem;
+    font-weight: 700;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: "Courier New";
+
+}
+
+.hello {
+
+    font-size: 1.75rem;
+    font-weight: 100;
+    padding-bottom: 2rem;
+
+}
+
+.introName {
+
+    font-weight: bold;
+    color:#66FF66;
+
+}
+
+.introPara {
+
+    padding-top: 2rem;
+    font-size: 1rem;
+
+}
+
+.btn {
+
+    background: white;
+    margin: 2rem 0;
+    padding: 0.75rem 2rem;
+    border: none;
+    border-radius: 2rem;
+
+}
